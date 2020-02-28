@@ -1,0 +1,7 @@
+# LSH-Algorithm-Improvement-By-Applying-Bitmap-Indexing
+
+Locality Sensitive Hashing(LSH) is Nearest Neighbor Search algorithm that primarily targeting large dataset with high dimensions. The problem in existing algorithm is to find the nearest neighbor in high dimensional datasets with less processing time. This issue often occurs in recommender system applications, data mining applications, etc. Linear search can be useful when dealing with low dimensional dataset. However, it is time consuming when dealing with high dimensional dataset. In order to solve this problem, a particular type of hash functions was designed to project two similar datasets to one hash value. This method is called LSH. 
+
+There are some challenges existing in the current LSH algorithm. For example, when we apply the LSH algorithm for applications such as finding similarities between different documents, we have to rebuild the hash table every time we add a document. This process is very costly and inefficient. Our objective is to improve the efficiency of the algorithm by applying bitmap indexing. 
+
+In this project, we propose a new LSH-based algorithm to improve hashing techniques and compression performance. Our approach uses bitmap indexing to speed up and simplify the application of LSH algorithm. We will compare the results from our approach with existing LSH algorithm. The final outcome will be evaluated based on processing time with different types of datasets.
