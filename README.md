@@ -101,8 +101,11 @@ where r is a user-defined bucket length. The bucket length can be used to contro
 # How to run it?
 ## Step 1. Clone the Repo
  ```
- git clone git@github.com:songruizhe/LSH-Algorithm-Improvement-By-Applying-Bitmap-Indexin.git
- cd LSH-Algorithm-Improvement-By-Applying-Bitmap-Indexing
+ git clone git@github.com:songruizhe/Image-Retrieval-Using-Locality-Sensitive-Hashing-Algorithm.git
+ cd Image-Retrieval-Using-Locality-Sensitive-Hashing-Algorithm
+ 
+ https://github.com/songruizhe/Image-Retrieval-Using-Locality-Sensitive-Hashing-Algorithm.git
+ 
  ```
 ## Step 2. Open Jupyter Notebook in CLI
  ```
