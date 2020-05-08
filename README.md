@@ -1,4 +1,4 @@
-# LSH-Algorithm-Improvement-By-Applying-Bitmap-Indexing
+# Image-Retrieval-Using-Locality-Sensitive-Hashing-Algorithm
 
 Locality Sensitive Hashing(LSH) is Nearest Neighbor Search algorithm that primarily targeting large dataset with high dimensions. The problem in existing algorithm is to find the nearest neighbor in high dimensional datasets with less processing time. This issue often occurs in recommender system applications, data mining applications, etc. Linear search can be useful when dealing with low dimensional dataset. However, it is time consuming when dealing with high dimensional dataset. In order to solve this problem, a particular type of hash functions was designed to project two similar datasets to one hash value. This method is called LSH. 
 
